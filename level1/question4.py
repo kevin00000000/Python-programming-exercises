@@ -1,0 +1,5 @@
+inputValue = input('input a sequence of comma-separated numbers:')
+l = list(inputValue.split(','))
+t = tuple(inputValue.split(','))
+print(l)
+print(t)

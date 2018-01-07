@@ -1,2 +1,2 @@
 # Python-programming-exercises
-Exercise python skill by following zhiwehu/Python-programming-exercises in github
+Exercise python basic skill by following [zhiwehu/Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises) in github

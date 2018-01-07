@@ -1,0 +1,1 @@
+print(input("Input a sentence: ")[::-1])

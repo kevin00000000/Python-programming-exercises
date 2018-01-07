@@ -1,0 +1,1 @@
+print([[[0 for x in range(8)] for y in range(5)] for z in range(3)])

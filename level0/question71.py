@@ -1,0 +1,1 @@
+print(eval(input('Input a basic mathematic:')))
